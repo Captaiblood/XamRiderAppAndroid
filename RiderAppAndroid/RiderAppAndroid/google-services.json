@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040043295011",
+    "project_id": "xamriderapp",
+    "storage_bucket": "xamriderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040043295011:android:dd3bf9972f99d97fcf0c96",
+        "android_client_info": {
+          "package_name": "com.companyname.riderappandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040043295011-fjnqpapk28vae0helnamrrj0q7leeapd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_efMTZ4c5Vek9oRZNRFGYiYZT-LoPmPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040043295011-fjnqpapk28vae0helnamrrj0q7leeapd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
